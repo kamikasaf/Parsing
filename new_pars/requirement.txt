@@ -1,0 +1,4 @@
+beatifulsoup
+bs4
+csv
+lxml

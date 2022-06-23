@@ -1,0 +1,6 @@
+1)  python3 -m venv venv(or env) --> create virtual environment создание окружения
+2)  . venv/bin/activate --> активация окружения (deactivate)
+3)  pip freeze --> проверка модулей в окружении 
+4)  все зависимости записчываем в  файл requirements.txt
+5)  pip_install name_module==ver (-r requirements.txt) *если не указать версию скачает последнюю*
+6)  pip freeze > requirements.txt (запишет все что выведено в терминале в файл)
